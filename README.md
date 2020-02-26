@@ -8,7 +8,7 @@ A Reading List using React.
 
 #### Page Preview:
 
-![Page Preview](/img/ReactRL.png)
+![Page Preview](img/ReactRL.png)
 
 #### Technologies:
 
